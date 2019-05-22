@@ -1,5 +1,5 @@
 (function () {
-    $.atoms.get_df_usage = [
+    $.atoms.get_df_usage2 = [
         {
             tag_code: "host_ip",
             type: "input",
